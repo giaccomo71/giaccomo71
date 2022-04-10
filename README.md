@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mike
-- 👀 I’m interested in HTML5, CSS3, JavaScript and Salesforce. I would like to become a developer once.
-- 🌱 I’m currently learning the Odin project and wordpress course on Udemy.
-- 💞️ I’m looking to collaborate on interesting projects which guide me and move forward in my career.
+- 👀 I’m interested in HTML5, CSS3, JavaScript. I would like to become a developer once.
+- 🌱 I’m currently learning to code from more sources like the Odin project, freecodecamp and courses on Udemy.
+- 💞️ I’m looking to collaborate on interesting projects which move forward in my career.
 - 📫 How to reach me -> miso71@gmail.com
 
 <!---
